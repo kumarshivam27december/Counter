@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+ 
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.main button {
+    width: 200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#count {
+    background-color: lightgreen;
+}
+
+
+
+#dec {
+    background-color: red;
+
+}
+
+
+#save {
+    background-color:whitesmoke;
+
+}
+
+.container{
+   
+    border-radius: 50px;
+    margin-top: 50px;
+border:  solid 5px black;
+background-color: lightgreen;
+width: 70%;
+
+}
+
+#save-el{
+color: white;
+font-weight: 20px;
+}
+
+.main{
+    width: 200px;
+    height: 300px;
+    background-color: lightgreen;
+}
